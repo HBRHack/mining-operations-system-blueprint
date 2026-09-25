@@ -355,11 +355,9 @@ docs/
 │       ├── PROCESS-FLOW.md
 │       └── USE-CASE.md
 │
-├── architect/                         # rekomendasi / jalur implementasi
+├── architect/                         # implementasi
 │   ├── ARCHITECTURE.md
 │   ├── TECH-STACK.md
-│   ├── INTEGRATION-DESIGN.md
-│   └── DEPLOYMENT-VIEW.md
 │
 ├── assumptions-constraints.md
 ├── business-rules.md
